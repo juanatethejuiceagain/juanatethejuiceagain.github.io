@@ -9,5 +9,5 @@ The infographic shown below presents data on Lehigh University's 2019 enrollment
 
 ## Lehigh 2023 Fall Enrollment Data Chart 
 The chart below gives us an inside look at the enrollment percentages throughout each college for the 2023 Fall semester. The data is from Lehigh University's [Office of Institutional Data](https://data.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2023.pdf).
-![Chart](![Lehigh_University_2023_Enrollment__Enrollment_Percentage__chartbuilder](https://github.com/juanatethejuiceagain/juanatethejuiceagain.github.io/assets/160577530/b5996bb9-1795-40bf-a862-91e347953bf1)
+(![Lehigh_University_2023_Enrollment__Enrollment_Percentage__chartbuilder](https://github.com/juanatethejuiceagain/juanatethejuiceagain.github.io/assets/160577530/b5996bb9-1795-40bf-a862-91e347953bf1)
 
