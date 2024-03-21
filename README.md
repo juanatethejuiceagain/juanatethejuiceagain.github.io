@@ -13,4 +13,4 @@ The chart below gives us an inside look at the enrollment percentages throughout
 
 ## Some of the World's top Cycling Cities
 The map presents some of the world's top cycling cities, with locations ranging from Vancouver B.C., Canada to Tokyo, Japan. 
-!(<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1VQi_2WEqiRKzLK8HUJHjqMV_QcLcU34&ehbc=2E312F" width="640" height="480"></iframe>)
+<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1VQi_2WEqiRKzLK8HUJHjqMV_QcLcU34&ehbc=2E312F" width="640" height="480"></iframe>
