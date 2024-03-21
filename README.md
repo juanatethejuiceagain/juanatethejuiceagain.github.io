@@ -11,3 +11,6 @@ The infographic shown below presents data on Lehigh University's 2019 enrollment
 The chart below gives us an inside look at the enrollment percentages throughout each college for the 2023 Fall semester. The data is from Lehigh University's [Office of Institutional Data](https://data.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2023.pdf).
 (![Lehigh_University_2023_Enrollment__Enrollment_Percentage__chartbuilder](https://github.com/juanatethejuiceagain/juanatethejuiceagain.github.io/assets/160577530/b5996bb9-1795-40bf-a862-91e347953bf1)
 
+## Some of the World's top Cycling Cities
+The map presents some of the world's top cycling cities, with locations ranging from Vancouver B.C., Canada to Tokyo, Japan. 
+!(<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1VQi_2WEqiRKzLK8HUJHjqMV_QcLcU34&ehbc=2E312F" width="640" height="480"></iframe>)
