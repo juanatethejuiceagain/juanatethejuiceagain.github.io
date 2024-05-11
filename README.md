@@ -21,7 +21,7 @@ Through the data presented, we're able to differentiate  different party prefere
 
 ## My Timeline Project on Playboi Carti
 The timeline below is about the rise of Playboi Carti within the mainstream rap realm and delves into what he did to achieve his success. 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR8RhqtvS23vm_dXApiKPaZ-OODz9G4dOUGWj4izgOS90pPzzW0j-UtIo2STe3b4r3Z1SZb-tOY0CB2/pubhtml?widget=true&amp;headers=false"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR8RhqtvS23vm_dXApiKPaZ-OODz9G4dOUGWj4izgOS90pPzzW0j-UtIo2STe3b4r3Z1SZb-tOY0CB2/pubhtml"></iframe>
 
 
 ## Top 10 Biggest Concerts of All Time!!
